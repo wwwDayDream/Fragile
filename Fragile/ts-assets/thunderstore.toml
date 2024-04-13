@@ -14,7 +14,7 @@ BepInEx-BepInExPack = "5.4.2100"
 
 [build]
 icon = "icon.png"
-readme = "../../README.md"
+readme = "TS.README.md"
 outdir = "../dist"
 
 [[build.copy]]
